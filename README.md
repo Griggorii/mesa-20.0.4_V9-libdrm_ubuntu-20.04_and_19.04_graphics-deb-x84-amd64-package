@@ -3,6 +3,6 @@ graphics , mesa , 20.0.4 , libpng12 , support , x86_64 , gallium-pipe , OpenCL ,
 
 Ubuntu X64 ubuntu 19.04 disco dingo , ubuntu 20.04 focal fossa , not ubuntu 18.10.19.10 , alternative driver libglu
 
-Mesa download + instructions: https://yadi.sk/d/vsSTtlH45Bte6g
+Mesa download + instructions: https://yadi.sk/d/tLPuE-RJKLS_Qg
 
 
