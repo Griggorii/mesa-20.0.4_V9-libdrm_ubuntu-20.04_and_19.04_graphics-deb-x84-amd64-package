@@ -6,3 +6,6 @@ Ubuntu X64 ubuntu 19.04 disco dingo , ubuntu 20.04 focal fossa , not ubuntu 18.1
 Mesa download + instructions: https://yadi.sk/d/tLPuE-RJKLS_Qg
 
 
+Griggorii@gmail.com
+
+
